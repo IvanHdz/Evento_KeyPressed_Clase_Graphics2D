@@ -1,0 +1,17 @@
+13/09/2009 rdebug.blogspot.com
+
+Demostracion simple de java2d , ciclo de render activo 
+
+animacion de un poligono regular 
+
+controles:
+
+tecla D : habilita/deshabilita el dibujado de lineas desde los vertices del poligono hasta el centro del mismo 
+
+tecla L : habilida/deshabilita el dibujado de lineas entre los vertices del poligono
+
+tecla C : cambia el color del poligono
+
+tecla Arriba : agrega un lado al poligono 
+
+tecla Abajo : quita un lado del poligono 
